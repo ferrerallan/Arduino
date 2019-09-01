@@ -1,0 +1,11 @@
+DHT11:
+https://produto.mercadolivre.com.br/MLB-1017606529-sensor-umidade-temperatura-dht11-para-arduino-pic-raspberry-_JM?quantity=1#position=1&type=item&tracking_id=a17ef109-de11-4124-bb71-d1d45de926c4
+
+NOMEMCU:
+https://produto.mercadolivre.com.br/MLB-907679271-modulo-esp8266-nodemcu-v3-wifi-80211-arduino-lua-_JM?quantity=1#position=4&type=item&tracking_id=3259abbf-8b77-444f-aa82-59ae86ea8bf7
+
+JUMPERS:
+https://produto.mercadolivre.com.br/MLB-843648329-kit-jumper-20cm-60-pecas-mxf-mxm-fxf-arduino-cabinho-wire-_JM?quantity=1#position=1&type=item&tracking_id=66b121cb-e405-471e-b394-9dcb41694df6
+
+PROTOBOARD:
+https://produto.mercadolivre.com.br/MLB-875481881-protoboard-breadboard-400-pontos-furos-prototipo-arduino-_JM?quantity=1#position=10&type=item&tracking_id=c33c6264-39c5-40de-b396-6d8c69cd4a1e
